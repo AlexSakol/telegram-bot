@@ -1,0 +1,1 @@
+This is a template for a telegram bot with basically functions. HTTPS NEEDED with http it does not work. To deploy it clone this repository and set up config.php.   
